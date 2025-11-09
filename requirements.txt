@@ -1,0 +1,26 @@
+# Core Dependencies
+langchain
+langchain-community
+langchain-groq
+python-dotenv
+langchain-core
+
+# Vector Store & Embeddings
+faiss-cpu
+langchain-huggingface
+sentence-transformers
+
+# Document Loaders
+pypdf
+python-docx
+pandas
+
+# Text Processing
+langchain-text-splitters
+tiktoken
+
+# Streamlit UI
+streamlit
+
+# Utilities
+numpy
